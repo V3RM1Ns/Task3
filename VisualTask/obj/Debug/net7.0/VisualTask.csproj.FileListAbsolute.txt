@@ -1,0 +1,5 @@
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.csproj.AssemblyReference.cache
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.AssemblyInfoInputs.cache
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.AssemblyInfo.cs
+/Users/apple/Desktop/VisualTask/VisualTask/obj/Debug/net7.0/VisualTask.csproj.CoreCompileInputs.cache
